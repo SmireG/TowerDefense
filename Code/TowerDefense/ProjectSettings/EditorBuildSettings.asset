@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitScene.unity
+    guid: d6a567272b64bef4896e6081b9a831a6
+  - enabled: 1
+    path: Assets/Scenes/SelectScene.unity
+    guid: afe43dbe700190540a6fe424c1e3a3d8
+  - enabled: 1
+    path: Assets/Scenes/TechScene.unity
+    guid: 8d43df5f66213104b960dbd45d334234
+  - enabled: 1
+    path: Assets/Scenes/JoyHighLand.unity
+    guid: 463821207acff534c8261d9ce671ebad
+  - enabled: 1
+    path: Assets/Scenes/Lake.unity
+    guid: eb69b5152d28c934fb48834d451ba083
+  - enabled: 1
+    path: Assets/Scenes/LycheeHill.unity
+    guid: 34d67c8d5ad299c46847d6aac12bfede
+  - enabled: 1
+    path: Assets/Scenes/TeachingBuilding.unity
+    guid: f1df5e787b58b244dadfdeaffd6a72ad
+  m_configObjects: {}
